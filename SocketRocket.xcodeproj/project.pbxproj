@@ -160,8 +160,6 @@
 		81D6476F1D2CA78800690609 /* SRLog.m in Sources */ = {isa = PBXBuildFile; fileRef = 81900A4B1D18C9CC0015A290 /* SRLog.m */; };
 		81D647701D2CA78800690609 /* SRHash.m in Sources */ = {isa = PBXBuildFile; fileRef = 81B31C2C1CDC406B00D86D43 /* SRHash.m */; };
 		81D647711D2CA78800690609 /* SRDelegateController.m in Sources */ = {isa = PBXBuildFile; fileRef = 817995851CE139700084DA37 /* SRDelegateController.m */; };
-		81D647741D2CA78800690609 /* Security.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F6A12CD3145122FC00C1D980 /* Security.framework */; };
-		81D647751D2CA78800690609 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F6B208301450F597009315AF /* Foundation.framework */; };
 		81D647771D2CA78800690609 /* SRURLUtilities.h in Headers */ = {isa = PBXBuildFile; fileRef = 81B22EE21CE43ECC0073C636 /* SRURLUtilities.h */; };
 		81D647781D2CA78800690609 /* SRPinningSecurityPolicy.h in Headers */ = {isa = PBXBuildFile; fileRef = 454FEA791D2570D400073768 /* SRPinningSecurityPolicy.h */; };
 		81D647791D2CA78800690609 /* SRIOConsumer.h in Headers */ = {isa = PBXBuildFile; fileRef = 81B31C0F1CDC404100D86D43 /* SRIOConsumer.h */; };
@@ -374,8 +372,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				81D647741D2CA78800690609 /* Security.framework in Frameworks */,
-				81D647751D2CA78800690609 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
